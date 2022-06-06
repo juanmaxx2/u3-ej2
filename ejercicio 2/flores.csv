@@ -1,4 +1,6 @@
-__Nombre=None
-    __Numero=None
-    __Color=None
-    __Descripcion=None
+Numero,Nombre,Color,Descripcion
+1,Hortensias Azules,Azules,son hortencias azules
+2,Rosa,Roja,se llaman rosas pero son rojas
+3,Trebol de 4 hojas,Verde,son treboles de la suerte
+4,Girasol,Amarrillo,Mira el sol
+5,Margarita,Blanco,Es Blanca y se llama margarita
